@@ -2,8 +2,8 @@ Assignments for [Berkeley CS 285: Deep Reinforcement Learning, Decision Making, 
 
 
 **Week 1**, Jan 21 – Jan 27:
-- [ ] Lecture 1: Introduction and Course Overview
-- [ ] Read Chapter 4.1–4.3: Policy Evaluation (Prediction), Policy Improvement, Policy Iteration
+- [x] Lecture 1: Introduction and Course Overview
+- [x] Read Chapter 4.1–4.3: Policy Evaluation (Prediction), Policy Improvement, Policy Iteration
 
 **Week 2**, Jan 28 – Feb 3:
 - [ ] Lecture 2: Supervised Learning of Behaviors
